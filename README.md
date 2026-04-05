@@ -1,1 +1,15 @@
-# Make-Admin-Panel-On-Reqiured-node.js
+# pr_pms
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.js
+```
+
+This project was created using `bun init` in bun v1.3.6. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
